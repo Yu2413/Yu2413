@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIS/Data Analysis/Data Science/Data Engineering/Multivariate Statistics/Linear Algebra/Multivariable Calculus/Remote Sensing
 - 🌱 I’m currently learning/reading The Data Warehouse Toolkit by Ralph Kimball & Margy Ross and Remote Sensing With ArcGIS Pro by Tammy Parece and John McGee
 - 💞️ I’m looking to collaborate on GIS, and Data Science Projects.
-- 📫 How to reach me ... [in/gary-yu-analyst/](https://www.linkedin.com/in/gary-yu-analyst/](https://www.linkedin.com/in/gary-yu-analyst/) | linktr.ee/yu.2413
+- 📫 How to reach me ... Yu.2413@outlook.com | [in/gary-yu-analyst/](https://www.linkedin.com/in/gary-yu-analyst/](https://www.linkedin.com/in/gary-yu-analyst/) | linktr.ee/yu.2413
 - ⚡ Fun fact: Fighter jet engines are among the most complex machinery ever built! They contain thousands of tiny, precision-engineered components that must work perfectly together. 
                     For instance, the turbine blades can spin over 10,000 times per minute and endure temperatures hotter than the sun's surface—all while maintaining microscopic tolerances. 
                       This level of complexity makes them the crown jewel of modern aeronautical engineering!
