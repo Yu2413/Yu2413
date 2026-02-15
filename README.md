@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yu2413/Gary Yu
 - 👀 I’m interested in GIS/Data Analysis/Science/Statistics
-- 🌱 I’m currently learning/reading The Data Warehouse Toolkit by Ralph Kimball & Margy Ross and Remote Sensing With ArcGIS Pro
+- 🌱 I’m currently learning/reading The Data Warehouse Toolkit by Ralph Kimball & Margy Ross and Remote Sensing With ArcGIS Pro by Tammy Parece and John McGee
 - 💞️ I’m looking to collaborate on GIS, and Data Science Projects.
 - 📫 How to reach me ... in/gary-yu-analyst/ | linktr.ee/yu.2413
 - ⚡ Fun fact: Fighter jet engines are among the most complex machinery ever built! They contain thousands of tiny, precision-engineered components that must work perfectly together. 
