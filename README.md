@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yu2413/Gary Yu
-- 👀 I’m interested in GIS/Data Analysis/Data Science/Data Engineering/Multivariate Statistics/Linear Algebra/Multivariable Calculus/Remote Sensing
+- 👀 I’m interested in GIS/Data Analysis/Data Science/Data Engineering/Multivariate Statistics/Linear Algebra/Multivariable Calculus/Remote Sensing/Cartography 
 - 🌱 I’m currently learning/reading The Data Warehouse Toolkit by Ralph Kimball & Margy Ross and  Thinking About GIS: Geographic Information System Planning for Managers by Roger Tomlinson 
 - 💞️ I’m looking to collaborate on GIS, and Data Science Projects.
 - 📫 How to reach me | Email: Yu.2413@outlook.com | LinkedIn: ([https://www.linkedin.com/in/yu2413/](https://www.linkedin.com/in/yu2413/))
